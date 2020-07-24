@@ -1,7 +1,7 @@
 fn main() {
     /*
     Slice type
-    Slices let you reference a contiguous sequence of elements in a collection rather than the whole collection
+    Slices let you reference a contiguous sequence of elements in a collection/string rather than the whole collection
     */
     let mut s = String::from("Hello, world!");
     let first_word = first_word_position(&s);
@@ -46,7 +46,7 @@ fn first_word_position(s: &String) -> usize {
 fn rewrite_first_word_position(s: &String) -> &str {
     let bytes = s.as_bytes();
 
-    for (index, &item) in bytes.iter().enumerate() {
+    for (i, &item) in bytes.iter().enumerate() {
         if item == b' ' {
             return &s[0..i];
         }

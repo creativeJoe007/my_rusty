@@ -5,8 +5,14 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/refrences_browwing/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/slice_type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_methods/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/refrences_browwing/target" />
       <excludeFolder url="file://$MODULE_DIR$/slice_type/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_example/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_methods/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

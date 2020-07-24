@@ -25,6 +25,9 @@
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/refrences_browwing/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/slice_type/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/struct_/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/struct_example/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/struct_methods/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97ebc627-c019-4b0d-a2e0-32d80cf2b453" name="Default Changelist" comment="">
@@ -32,6 +35,18 @@
       <change afterPath="$PROJECT_DIR$/slice_type/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/slice_type/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/slice_type/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_example/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_example/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_example/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_methods/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_methods/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_methods/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rust_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust_projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +58,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/slice_type" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="41jvs78o" />
@@ -81,5 +96,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="73" width="672" height="678" key="search.everywhere.popup" timestamp="1595632512717">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="303" y="73" width="672" height="678" key="search.everywhere.popup/0.23.1280.729@0.23.1280.729" timestamp="1595632512717" />
   </component>
 </project>
